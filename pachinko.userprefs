@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movecamera.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Detonator\System\Detonator.cs" Line="288" Column="1" />
+      <File FileName="Assets\DropMarker.cs" Line="30" Column="95" />
+      <File FileName="Assets\BlinkingLight.cs" Line="12" Column="22" />
+      <File FileName="Assets\ballsound.cs" Line="11" Column="8" />
+      <File FileName="Assets\movecamera.cs" Line="13" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
